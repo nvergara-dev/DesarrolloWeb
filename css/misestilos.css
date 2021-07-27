@@ -1,0 +1,33 @@
+/* referencia con ID */
+#P1 {
+    background-color: green;
+    color: white;
+    font-size: 30px;
+}
+
+/* referencia con clase */
+.clase1 {
+    background-color: red;
+    color: black;
+    font-size: 15px; 
+}
+
+/* referencia con clase */
+.clase2 {
+    background-color: rgb(190, 172, 172);
+    color: black;
+    font-size: 15px; 
+}
+
+/* referencia con etiqueta name*/
+
+p[name = "P4"] {
+    background-color: red;
+    color: black;
+    font-size: 15px;  
+}
+
+button[name = "B1"] {
+    color: black;
+    background-color: sienna;
+}
