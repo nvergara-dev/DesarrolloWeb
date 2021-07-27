@@ -14,7 +14,7 @@
 
 /* referencia con clase */
 .clase2 {
-    background-color: rgb(190, 172, 172);
+    background-color: rgba(151, 0, 0, 0.473);
     color: black;
     font-size: 15px; 
 }
@@ -30,4 +30,8 @@ p[name = "P4"] {
 button[name = "B1"] {
     color: black;
     background-color: sienna;
+}
+
+body{
+    text-align: center;
 }
